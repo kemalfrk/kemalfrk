@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal Faruk Talay</h1>
-<h3 align="center">Junior Data Scientist</h3>
+<h2 align="center">Junior Data Scientist</h2>
 <h4>I'm an Engineering Student. I'm Developing Myself in Data Science, Machine Learning and Deep Learning. I'm Making Projects. I have advanced Python knowledge.</h4>
 
 <h3 align="left">Connect with me:</h3>
