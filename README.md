@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal Faruk Talay</h1>
-<h2 align="center">Junior Data Scientist/AI Engineer</h2>
+<h2 align="center">Data Science | ML | DL| Computer Vision | NLP</h2>
 <h4>I'm an Engineering Student. I'm an enthusiast of data science, visualization, Machine/Deep learning and Computer Vision .Though it's a long journey to master everything thoroughly, I'm still eager to read, code and learn new things every day.</h4>
 
 <h3 align="left">Connect with me:</h3>
